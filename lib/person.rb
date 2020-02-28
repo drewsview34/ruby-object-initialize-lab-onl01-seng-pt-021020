@@ -7,5 +7,5 @@ class Person
   
 end
 
-fido = Dog.new("Fido")
+andrew = Person.new("Andrew")
 fido.name
