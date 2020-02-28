@@ -1,8 +1,8 @@
 class Person
-  attr_accessor :name
+  attr_accessor :name = "Mutt"
   
   def initialize(@name)
-    @name = name
+    @name
   end  
   
 end
