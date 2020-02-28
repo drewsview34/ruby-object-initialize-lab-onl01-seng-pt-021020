@@ -8,4 +8,4 @@ class Person
 end
 
 andrew = Person.new("Andrew")
-fido.name
+andrew.name
